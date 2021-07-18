@@ -1,19 +1,25 @@
 .header{
     text-align: center;
-    color: black;
-    border: solid green;
-    border-radius: 5px;
+    color: solid black;
+    border: dashed black;
     padding: 50px auto;
     margin-top: 0 auto;
     margin: 20px;
+    font-style: normal;
+    font-family: 'Times New Roman', Times, serif;
 
     
 
 }
+*{
+    background-color: cyan;
+
+}
 .nav1{
     font-size: 30px;
-    font-weight: 800px;
+    font-weight: 700px;
     text-align: center;
+    line-height: 2.0em;
 
     
 
@@ -21,30 +27,43 @@
 .familyphotos{
     position: relative;
     display:flex;
-    flex-direction:inherit;
-    border: none;
     margin: 10px;
-    height: 500px;
+    height: 300px;
+    border: solid maroon;
 
 }
 .indoorphotos{
 
     position: relative;
     display:flex;
-    flex-direction:inherit;
-    border: none;
     margin-top: 20px;
-    height: 500px;
-    margin: 5px;
+    height: 300px;
+    margin: 10px;
+    border: solid maroon;
 
 }
 .outdoorphotos{
     position: relative;
     display:flex;
     flex-direction:inherit;
-    border: none;
-    margin-top: 50px;
-    height: 500px;
+    border: solid maroon;
+    height: 300px;
 
 
+}
+img{
+    border-radius: 10px;
+}
+p{
+    display: inline;
+}
+.header,ol{
+    text-align: center;
+}
+#contacts {
+    display: block;
+    display: flex;
+
+    
+    
 }
