@@ -1,0 +1,50 @@
+.header{
+    text-align: center;
+    color: black;
+    border: solid green;
+    border-radius: 5px;
+    padding: 50px auto;
+    margin-top: 0 auto;
+    margin: 20px;
+
+    
+
+}
+.nav1{
+    font-size: 30px;
+    font-weight: 800px;
+    text-align: center;
+
+    
+
+}
+.familyphotos{
+    position: relative;
+    display:flex;
+    flex-direction:inherit;
+    border: none;
+    margin: 10px;
+    height: 500px;
+
+}
+.indoorphotos{
+
+    position: relative;
+    display:flex;
+    flex-direction:inherit;
+    border: none;
+    margin-top: 20px;
+    height: 500px;
+    margin: 5px;
+
+}
+.outdoorphotos{
+    position: relative;
+    display:flex;
+    flex-direction:inherit;
+    border: none;
+    margin-top: 50px;
+    height: 500px;
+
+
+}
