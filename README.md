@@ -7,4 +7,4 @@ gh-page link:https://devseme.github.io/photographywebsite/
 
 
 design photo:
-![](ip1 design.jpg)
+![](./ip1 design.jpg)
