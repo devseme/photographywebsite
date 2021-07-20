@@ -1,15 +1,12 @@
 .header{
     text-align: center;
     color: solid black;
-    border: dashed black;
+    border: solid black;
     padding: 50px auto;
     margin-top: 0 auto;
     margin: 20px;
     font-style: normal;
     font-family: 'Times New Roman', Times, serif;
-
-    
-
 }
 *{
     background-color: cyan;
