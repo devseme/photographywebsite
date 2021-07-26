@@ -4,7 +4,7 @@
 ## This is my first independent project at Moringa achool to create a homepage for a photography website.
 
 ## Setup/Installation Requirements
-*run the {deployedlink](https://devseme.github.io/photographywebsite/)
+[deployedlink](https://devseme.github.io/photographywebsite/)
 
 
 ## Known Bugs
