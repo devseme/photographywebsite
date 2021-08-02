@@ -1,6 +1,15 @@
 # Photographywebsite
-#### This is my independent project 1 to create a photography website homepage 
-#### By **Ochenge Ian**
+#### This is my independent project 1 to create a photography website homepage x-special/nautilus-clipboard
+copy
+file:///home/moringa/Documents/photographywebsite/Ip1%20design.jpg
+![Ip1 design](https://user-images.githubusercontent.com/86242350/127918391-828d5f05-26f4-4be4-b768-e2f8c0cc2dbb.jpg)
+
+
+
+
+
+#### By **Ochenge Ian**![Ip1 design](https://user-images.githubusercontent.com/86242350/127918474-35afd5cb-f0e3-48ba-9033-760066723559.jpg)
+
 ## This is my first independent project at Moringa achool to create a homepage for a photography website.
 
 ## Setup/Installation Requirements
