@@ -1,5 +1,5 @@
 # Photographywebsite
-#### This is a simple project to create a photograpphy website homepage 
+#### This is my independent project 1 to create a photograpphy website homepage 
 #### By **Ochenge Ian**
 ## This is my first independent project at Moringa achool to create a homepage for a photography website.
 
