@@ -1,5 +1,5 @@
 # Photographywebsite
-#### This is my independent project 1 to create a photography website homepage x-special/nautilus-clipboard
+#### This is my independent project 1 to create a photography website homepage
 
 
 #### By **Ochenge Ian**![Ip1 design](https://user-images.githubusercontent.com/86242350/127918474-35afd5cb-f0e3-48ba-9033-760066723559.jpg)
